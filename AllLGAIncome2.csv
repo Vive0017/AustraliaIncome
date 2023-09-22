@@ -1,538 +1,538 @@
-﻿LGA_Name,Income
-Albury,50379,
-Armidale Regional,43888,
-Ballina,44182,
-Balranald,47049,
-Bathurst Regional,53066,
-Bayside,51718,
-Bega Valley,40001,
-Bellingen,38005,
-Berrigan,40737,
-Blacktown,56098,
-Bland,38064,
-Blayney,49857,
-Blue Mountains,53047,
-Bogan,43157,
-Bourke,54690,
-Brewarrina,46458,
-Broken Hill,54757,
-Burwood,40937,
-Byron,36665,
-Cabonne,46144,
-Camden,61468,
-Campbelltown,53462,
-Canada Bay,61661,
-Canterbury-Bankstown,45875,
-Carrathool,41201,
-Central Coast,50037,
-Central Darling,46581,
-Cessnock,51320,
-Clarence Valley,40710,
-Cobar,56479,
-Coffs Harbour,43423,
-Coolamon,44179,
-Coonamble,39674,
-Cootamundra-Gundagai Regional,44692,
-Cowra,41993,
-Cumberland,43796,
-Dubbo Regional,51952,
-Dungog,46194,
-Edward River,44168,
-Eurobodalla,38704,
-Fairfield,45569,
-Federation,44959,
-Forbes,45173,
-Georges River,48250,
-Gilgandra,35029,
-Glen Innes Severn,33044,
-Goulburn Mulwaree,51104,
-Greater Hume Shire,45432,
-Griffith,50400,
-Gunnedah,51036,
-Gwydir,29873,
-Hawkesbury,55576,
-Hay,45407,
-Hilltops,44162,
-Hornsby,58293,
-Hunters Hill,74274,
-Inner West,67422,
-Inverell,43005,
-Junee,48868,
-Kempsey,40083,
-Kiama,49263,
-Ku-ring-gai,62573,
-Kyogle,33759,
-Lachlan,36048,
-Lake Macquarie,52631,
-Lane Cove,74773,
-Leeton,49492,
-Lismore,44669,
-Lithgow,48396,
-Liverpool,53256,
-Liverpool Plains,40419,
-Lockhart,44650,
-Maitland,55483,
-Mid-Coast,38800,
-Mid-Western Regional,47388,
-Moree Plains,47595,
-Mosman,78073,
-Murray River,42523,
-Murrumbidgee,45140,
-Muswellbrook,56356,
-Nambucca,36849,
-Narrabri,46590,
-Narrandera,44800,
-Narromine,42088,
-Newcastle,55311,
-North Sydney,80266,
-Northern Beaches,60749,
-Oberon,50112,
-Orange,55024,
-Parkes,45724,
-Parramatta,53662,
-Penrith,57740,
-Port Macquarie-Hastings,42675,
-Port Stephens,46676,
-Queanbeyan-Palerang Regional,67840,
-Randwick,63696,
-Richmond Valley,43985,
-Ryde,56105,
-Shellharbour,52593,
-Shoalhaven,43309,
-Singleton,56839,
-Snowy Monaro Regional,47050,
-Snowy Valleys,49019,
-Strathfield,48294,
-Sutherland Shire,61414,
-Sydney,59401,
-Tamworth Regional,49606,
-Temora,39285,
-Tenterfield,29372,
-The Hills Shire,60756,
-Tweed,42883,
-Upper Hunter Shire,49007,
-Upper Lachlan Shire,46010,
-Uralla,41246,
-Wagga Wagga,54054,
-Walcha,33903,
-Walgett,36855,
-Warren,40017,
-Warrumbungle Shire,35480,
-Waverley,67914,
-Weddin,32817,
-Wentworth,43490,
-Willoughby,63847,
-Wingecarribee,46826,
-Wollondilly,57942,
-Wollongong,53164,
-Woollahra,81096,
-Yass Valley,60549,
-Alpine,41010,
-Ararat,46504,
-Ballarat,50767,
-Banyule,58553,
-Bass Coast,40532,
-Baw Baw,48180,
-Bayside,64459,
-Benalla,43992,
-Boroondara,60701,
-Brimbank,46673,
-Buloke,43642,
-Campaspe,45203,
-Cardinia,52595,
-Casey,51167,
-Central Goldfields,40585,
-Colac-Otway,44863,
-Corangamite,45675,
-Darebin,55636,
-East Gippsland,41133,
-Frankston,52932,
-Gannawarra,42157,
-Glen Eira,59170,
-Glenelg,46580,
-Golden Plains,52636,
-Greater Bendigo,50380,
-Greater Dandenong,43220,
-Greater Geelong,51228,
-Greater Shepparton,46821,
-Hepburn,43129,
-Hindmarsh,49326,
-Hobsons Bay,60480,
-Horsham,49572,
-Hume,49410,
-Indigo,48510,
-Kingston,55562,
-Knox,52301,
-Latrobe,50361,
-Loddon,41106,
-Macedon Ranges,54922,
-Manningham,48090,
-Mansfield,40763,
-Maribyrnong,56241,
-Maroondah,54001,
-Melbourne,48302,
-Melton,53913,
-Mildura,45037,
-Mitchell,53184,
-Moira,43701,
-Monash,46746,
-Moonee Valley,60555,
-Moorabool,55040,
-Moreland,55965,
-Mornington Peninsula,48352,
-Mount Alexander,43234,
-Moyne,47001,
-Murrindindi,43040,
-Nillumbik,58670,
-Northern Grampians,45838,
-Port Phillip,65804,
-Pyrenees,41643,
-Queenscliffe,45063,
-South Gippsland,43165,
-Southern Grampians,45432,
-Stonnington,68889,
-Strathbogie,43302,
-Surf Coast,52224,
-Swan Hill,44327,
-Towong,42687,
-Wangaratta,46850,
-Warrnambool,50144,
-Wellington,46503,
-West Wimmera,47573,
-Whitehorse,48608,
-Whittlesea,51170,
-Wodonga,52498,
-Wyndham,52327,
-Yarra,69025,
-Yarra Ranges,52188,
-Yarriambiack,50362,
-Aurukun,26086,
-Balonne,42302,
-Banana,51642,
-Barcaldine,49995,
-Barcoo,54970,
-Blackall-Tambo,46365,
-Boulia,56748,
-Brisbane,56564,
-Bulloo,59362,
-Bundaberg,43629,
-Burdekin,48534,
-Burke,47190,
-Cairns,50743,
-Carpentaria,51151,
-Cassowary Coast,41828,
-Central Highlands,62853,
-Charters Towers,50733,
-Cherbourg,33437,
-Cloncurry,67946,
-Cook,46365,
-Croydon,41846,
-Diamantina,57675,
-Doomadgee,34069,
-Douglas,41055,
-Etheridge,42137,
-Flinders,53331,
-Fraser Coast,42213,
-Gladstone,57781,
-Gold Coast,47126,
-Goondiwindi,44470,
-Gympie,39795,
-Hinchinbrook,47663,
-Hope Vale,37510,
-Ipswich,53745,
-Isaac,78578,
-Kowanyama,33750,
-Livingstone,55073,
-Lockhart River,34233,
-Lockyer Valley,45600,
-Logan,50418,
-Longreach,55065,
-Mackay,60190,
-McKinlay,56015,
-Mapoon,42148,
-Maranoa,49041,
-Mareeba,41476,
-Moreton Bay,51476,
-Mornington,43149,
-Mount Isa,74859,
-Murweh,47927,
-Napranum,36010,
-Noosa,40819,
-North Burnett,35307,
-Northern Peninsula Area,44783,
-Palm Island,39086,
-Paroo,42764,
-Pormpuraaw,28471,
-Quilpie,50929,
-Redland,53448,
-Richmond,54147,
-Rockhampton,55399,
-Scenic Rim,44902,
-Somerset,47348,
-South Burnett,41341,
-Southern Downs,38921,
-Sunshine Coast,46376,
-Tablelands,41516,
-Toowoomba,50244,
-Torres,60039,
-Torres Strait Island,40036,
-Townsville,57665,
-Weipa,88989,
-Western Downs,45608,
-Whitsunday,46559,
-Winton,53261,
-Woorabinda,32946,
-Wujal Wujal,46257,
-Yarrabah,43250,
-Adelaide,48271,
-Adelaide Hills,55295,
-Adelaide Plains,50982,
-Alexandrina,40552,
-Anangu Pitjantjatjara,38461,
-Barossa,50018,
-Barunga West,42920,
-Berri and Barmera,46538,
-Burnside,58695,
-Campbelltown,49700,
-Ceduna,49220,
-Charles Sturt,52914,
-Clare and Gilbert Valleys,45098,
-Cleve,36874,
-Coober Pedy,44155,
-Copper Coast,41911,
-Elliston,40656,
-Flinders Ranges,44266,
-Franklin Harbour,42929,
-Gawler,51409,
-Goyder,35783,
-Grant,51280,
-Holdfast Bay,55780,
-Kangaroo Island,38020,
-Karoonda East Murray,28609,
-Kimba,31306,
-Kingston,45746,
-Light,52309,
-Lower Eyre Peninsula,50903,
-Loxton Waikerie,44020,
-Maralinga Tjarutja,84447,
-Marion,52270,
-Mid Murray,38379,
-Mitcham,56348,
-Mount Barker,51673,
-Mount Gambier,50201,
-Mount Remarkable,37708,
-Murray Bridge,43987,
-Naracoorte and Lucindale,47037,
-Northern Areas,43034,
-Norwood Payneham St Peters,54742,
-Onkaparinga,49979,
-Orroroo/Carrieton,30041,
-Peterborough,33908,
-Playford,48594,
-Port Adelaide Enfield,50014,
-Port Augusta,52558,
-Port Lincoln,47351,
-Port Pirie City and Dists,48080,
-Prospect,57175,
-Renmark Paringa,44101,
-Robe,41089,
-Roxby Downs,98955,
-Salisbury,48732,
-Southern Mallee,42363,
-Streaky Bay,43352,
-Tatiara,47001,
-Tea Tree Gully,52772,
-The Coorong,41497,
-Tumby Bay,41192,
-Unley,59740,
-Victor Harbor,36417,
-Wakefield,44546,
-Walkerville,62477,
-Wattle Range,47233,
-West Torrens,50342,
-Whyalla,57225,
-Wudinna,45383,
-Yankalilla,38213,
-Yorke Peninsula,39376,
-Albany,45584,
-Armadale,56278,
-Ashburton,99367,
-Augusta-Margaret River,40897,
-Bassendean,58512,
-Bayswater,54818,
-Belmont,54879,
-Beverley,45548,
-Boddington,69840,
-Boyup Brook,43385,
-Bridgetown-Greenbushes,43166,
-Brookton,45842,
-Broome,60194,
-Broomehill-Tambellup,45755,
-Bruce Rock,46377,
-Bunbury,49837,
-Busselton,45484,
-Cambridge,71303,
-Canning,47203,
-Capel,56627,
-Carnamah,47145,
-Carnarvon,48014,
-Chapman Valley,56223,
-Chittering,54915,
-Claremont,63416,
-Cockburn,58423,
-Collie,51443,
-Coolgardie,70809,
-Coorow,44036,
-Corrigin,50418,
-Cottesloe,76983,
-Cranbrook,43592,
-Cuballing,43251,
-Cue,37750,
-Cunderdin,55539,
-Dalwallinu,54650,
-Dandaragan,43380,
-Dardanup,54514,
-Denmark,34822,
-Derby-West Kimberley,52365,
-Donnybrook-Balingup,41906,
-Dowerin,47822,
-Dumbleyung,45220,
-Dundas,48504,
-East Fremantle,66721,
-East Pilbara,81605,
-Esperance,48532,
-Exmouth,49741,
-Fremantle,58603,
-Gingin,40881,
-Gnowangerup,56240,
-Goomalling,43895,
-Gosnells,51269,
-Greater Geraldton,53684,
-Halls Creek,45788,
-Harvey,54178,
-Irwin,47502,
-Jerramungup,38949,
-Joondalup,57074,
-Kalamunda,56001,
-Kalgoorlie/Boulder,72217,
-Karratha,84851,
-Katanning,47460,
-Kellerberrin,42818,
-Kent,57557,
-Kojonup,47828,
-Kondinin,46693,
-Koorda,35226,
-Kulin,47241,
-Kwinana,57280,
-Lake Grace,43486,
-Laverton,58577,
-Leonora,69112,
-Mandurah,49706,
-Manjimup,40438,
-Meekatharra,48463,
-Melville,56643,
-Menzies,42888,
-Merredin,50077,
-Mingenew,54007,
-Moora,51570,
-Morawa,53920,
-Mosman Park,63402,
-Mount Magnet,45776,
-Mount Marshall,41244,
-Mukinbudin,46977,
-Mundaring,55293,
-Murchison,64696,
-Murray,50965,
-Nannup,33567,
-Narembeen,46841,
-Narrogin,50086,
-Nedlands,71149,
-Northam,53600,
-Northampton,40519,
-Nungarin,31506,
-Peppermint Grove,96244,
-Perenjori,42245,
-Perth,54587,
-Pingelly,40807,
-Plantagenet,41434,
-Port Hedland,89365,
-Quairading,52016,
-Ravensthorpe,41225,
-Rockingham,57170,
-Sandstone,50745,
-Serpentine-Jarrahdale,59390,
-Shark Bay,44217,
-South Perth,60022,
-Stirling,55839,
-Subiaco,68296,
-Swan,55884,
-Tammin,44856,
-Three Springs,45239,
-Toodyay,50272,
-Trayning,37056,
-Upper Gascoyne,61447,
-Victoria Park,56240,
-Victoria Plains,51414,
-Vincent,63973,
-Wagin,45998,
-Wandering,54478,
-Wanneroo,54448,
-Waroona,51529,
-West Arthur,41280,
-Westonia,54243,
-Wickepin,46658,
-Williams,52966,
-Wiluna,39332,
-Wongan-Ballidu,49882,
-Woodanilling,47912,
-Wyalkatchem,44425,
-Wyndham-East Kimberley,59833,
-Yalgoo,41358,
-Yilgarn,60645,
-York,44483,
-Break O'Day,32571,
-Brighton,50986,
-Burnie,49655,
-Central Coast,47673,
-Central Highlands,42329,
-Circular Head,46619,
-Clarence,51867,
-Derwent Valley,48959,
-Devonport,45738,
-Dorset,40302,
-Flinders,43899,
-George Town,45006,
-Glamorgan/Spring Bay,37430,
-Glenorchy,46619,
-Hobart,48663,
-Huon Valley,43200,
-Kentish,41647,
-King Island,48154,
-Kingborough,50254,
-Latrobe,48301,
-Launceston,47821,
-Meander Valley,47322,
-Northern Midlands,48158,
-Sorell,49338,
-Southern Midlands,47243,
-Tasman,34333,
-Waratah/Wynyard,49071,
-West Coast,50770,
-West Tamar,48492,
-Alice Springs,61606,
-Barkly,57004,
-Belyuen,8142,
-Central Desert,40721,
-Coomalie,43883,
-Darwin,61808,
-East Arnhem,29231,
-Katherine,64209,
-Litchfield,65253,
-MacDonnell,34652,
-Palmerston,67256,
-Roper Gulf,33955,
-Tiwi Islands,37551,
-Victoria Daly,37124,
-Wagait,62927,
-West Arnhem,46840,
-West Daly,35450,
+﻿LGA_Name,Income;;;;;;;
+Albury,50379;;;;;;;
+Armidale Regional,43888;;;;;;;
+Ballina,44182;;;;;;;
+Balranald,47049;;;;;;;
+Bathurst Regional,53066;;;;;;;
+Bayside,51718;;;;;;;
+Bega Valley,40001;;;;;;;
+Bellingen,38005;;;;;;;
+Berrigan,40737;;;;;;;
+Blacktown,56098;;;;;;;
+Bland,38064;;;;;;;
+Blayney,49857;;;;;;;
+Blue Mountains,53047;;;;;;;
+Bogan,43157;;;;;;;
+Bourke,54690;;;;;;;
+Brewarrina,46458;;;;;;;
+Broken Hill,54757;;;;;;;
+Burwood,40937;;;;;;;
+Byron,36665;;;;;;;
+Cabonne,46144;;;;;;;
+Camden,61468;;;;;;;
+Campbelltown,53462;;;;;;;
+Canada Bay,61661;;;;;;;
+Canterbury-Bankstown,45875;;;;;;;
+Carrathool,41201;;;;;;;
+Central Coast,50037;;;;;;;
+Central Darling,46581;;;;;;;
+Cessnock,51320;;;;;;;
+Clarence Valley,40710;;;;;;;
+Cobar,56479;;;;;;;
+Coffs Harbour,43423;;;;;;;
+Coolamon,44179;;;;;;;
+Coonamble,39674;;;;;;;
+Cootamundra-Gundagai Regional,44692;;;;;;;
+Cowra,41993;;;;;;;
+Cumberland,43796;;;;;;;
+Dubbo Regional,51952;;;;;;;
+Dungog,46194;;;;;;;
+Edward River,44168;;;;;;;
+Eurobodalla,38704;;;;;;;
+Fairfield,45569;;;;;;;
+Federation,44959;;;;;;;
+Forbes,45173;;;;;;;
+Georges River,48250;;;;;;;
+Gilgandra,35029;;;;;;;
+Glen Innes Severn,33044;;;;;;;
+Goulburn Mulwaree,51104;;;;;;;
+Greater Hume Shire,45432;;;;;;;
+Griffith,50400;;;;;;;
+Gunnedah,51036;;;;;;;
+Gwydir,29873;;;;;;;
+Hawkesbury,55576;;;;;;;
+Hay,45407;;;;;;;
+Hilltops,44162;;;;;;;
+Hornsby,58293;;;;;;;
+Hunters Hill,74274;;;;;;;
+Inner West,67422;;;;;;;
+Inverell,43005;;;;;;;
+Junee,48868;;;;;;;
+Kempsey,40083;;;;;;;
+Kiama,49263;;;;;;;
+Ku-ring-gai,62573;;;;;;;
+Kyogle,33759;;;;;;;
+Lachlan,36048;;;;;;;
+Lake Macquarie,52631;;;;;;;
+Lane Cove,74773;;;;;;;
+Leeton,49492;;;;;;;
+Lismore,44669;;;;;;;
+Lithgow,48396;;;;;;;
+Liverpool,53256;;;;;;;
+Liverpool Plains,40419;;;;;;;
+Lockhart,44650;;;;;;;
+Maitland,55483;;;;;;;
+Mid-Coast,38800;;;;;;;
+Mid-Western Regional,47388;;;;;;;
+Moree Plains,47595;;;;;;;
+Mosman,78073;;;;;;;
+Murray River,42523;;;;;;;
+Murrumbidgee,45140;;;;;;;
+Muswellbrook,56356;;;;;;;
+Nambucca,36849;;;;;;;
+Narrabri,46590;;;;;;;
+Narrandera,44800;;;;;;;
+Narromine,42088;;;;;;;
+Newcastle,55311;;;;;;;
+North Sydney,80266;;;;;;;
+Northern Beaches,60749;;;;;;;
+Oberon,50112;;;;;;;
+Orange,55024;;;;;;;
+Parkes,45724;;;;;;;
+Parramatta,53662;;;;;;;
+Penrith,57740;;;;;;;
+Port Macquarie-Hastings,42675;;;;;;;
+Port Stephens,46676;;;;;;;
+Queanbeyan-Palerang Regional,67840;;;;;;;
+Randwick,63696;;;;;;;
+Richmond Valley,43985;;;;;;;
+Ryde,56105;;;;;;;
+Shellharbour,52593;;;;;;;
+Shoalhaven,43309;;;;;;;
+Singleton,56839;;;;;;;
+Snowy Monaro Regional,47050;;;;;;;
+Snowy Valleys,49019;;;;;;;
+Strathfield,48294;;;;;;;
+Sutherland Shire,61414;;;;;;;
+Sydney,59401;;;;;;;
+Tamworth Regional,49606;;;;;;;
+Temora,39285;;;;;;;
+Tenterfield,29372;;;;;;;
+The Hills Shire,60756;;;;;;;
+Tweed,42883;;;;;;;
+Upper Hunter Shire,49007;;;;;;;
+Upper Lachlan Shire,46010;;;;;;;
+Uralla,41246;;;;;;;
+Wagga Wagga,54054;;;;;;;
+Walcha,33903;;;;;;;
+Walgett,36855;;;;;;;
+Warren,40017;;;;;;;
+Warrumbungle Shire,35480;;;;;;;
+Waverley,67914;;;;;;;
+Weddin,32817;;;;;;;
+Wentworth,43490;;;;;;;
+Willoughby,63847;;;;;;;
+Wingecarribee,46826;;;;;;;
+Wollondilly,57942;;;;;;;
+Wollongong,53164;;;;;;;
+Woollahra,81096;;;;;;;
+Yass Valley,60549;;;;;;;
+Alpine,41010;;;;;;;
+Ararat,46504;;;;;;;
+Ballarat,50767;;;;;;;
+Banyule,58553;;;;;;;
+Bass Coast,40532;;;;;;;
+Baw Baw,48180;;;;;;;
+Bayside,64459;;;;;;;
+Benalla,43992;;;;;;;
+Boroondara,60701;;;;;;;
+Brimbank,46673;;;;;;;
+Buloke,43642;;;;;;;
+Campaspe,45203;;;;;;;
+Cardinia,52595;;;;;;;
+Casey,51167;;;;;;;
+Central Goldfields,40585;;;;;;;
+Colac-Otway,44863;;;;;;;
+Corangamite,45675;;;;;;;
+Darebin,55636;;;;;;;
+East Gippsland,41133;;;;;;;
+Frankston,52932;;;;;;;
+Gannawarra,42157;;;;;;;
+Glen Eira,59170;;;;;;;
+Glenelg,46580;;;;;;;
+Golden Plains,52636;;;;;;;
+Greater Bendigo,50380;;;;;;;
+Greater Dandenong,43220;;;;;;;
+Greater Geelong,51228;;;;;;;
+Greater Shepparton,46821;;;;;;;
+Hepburn,43129;;;;;;;
+Hindmarsh,49326;;;;;;;
+Hobsons Bay,60480;;;;;;;
+Horsham,49572;;;;;;;
+Hume,49410;;;;;;;
+Indigo,48510;;;;;;;
+Kingston,55562;;;;;;;
+Knox,52301;;;;;;;
+Latrobe,50361;;;;;;;
+Loddon,41106;;;;;;;
+Macedon Ranges,54922;;;;;;;
+Manningham,48090;;;;;;;
+Mansfield,40763;;;;;;;
+Maribyrnong,56241;;;;;;;
+Maroondah,54001;;;;;;;
+Melbourne,48302;;;;;;;
+Melton,53913;;;;;;;
+Mildura,45037;;;;;;;
+Mitchell,53184;;;;;;;
+Moira,43701;;;;;;;
+Monash,46746;;;;;;;
+Moonee Valley,60555;;;;;;;
+Moorabool,55040;;;;;;;
+Moreland,55965;;;;;;;
+Mornington Peninsula,48352;;;;;;;
+Mount Alexander,43234;;;;;;;
+Moyne,47001;;;;;;;
+Murrindindi,43040;;;;;;;
+Nillumbik,58670;;;;;;;
+Northern Grampians,45838;;;;;;;
+Port Phillip,65804;;;;;;;
+Pyrenees,41643;;;;;;;
+Queenscliffe,45063;;;;;;;
+South Gippsland,43165;;;;;;;
+Southern Grampians,45432;;;;;;;
+Stonnington,68889;;;;;;;
+Strathbogie,43302;;;;;;;
+Surf Coast,52224;;;;;;;
+Swan Hill,44327;;;;;;;
+Towong,42687;;;;;;;
+Wangaratta,46850;;;;;;;
+Warrnambool,50144;;;;;;;
+Wellington,46503;;;;;;;
+West Wimmera,47573;;;;;;;
+Whitehorse,48608;;;;;;;
+Whittlesea,51170;;;;;;;
+Wodonga,52498;;;;;;;
+Wyndham,52327;;;;;;;
+Yarra,69025;;;;;;;
+Yarra Ranges,52188;;;;;;;
+Yarriambiack,50362;;;;;;;
+Aurukun,26086;;;;;;;
+Balonne,42302;;;;;;;
+Banana,51642;;;;;;;
+Barcaldine,49995;;;;;;;
+Barcoo,54970;;;;;;;
+Blackall-Tambo,46365;;;;;;;
+Boulia,56748;;;;;;;
+Brisbane,56564;;;;;;;
+Bulloo,59362;;;;;;;
+Bundaberg,43629;;;;;;;
+Burdekin,48534;;;;;;;
+Burke,47190;;;;;;;
+Cairns,50743;;;;;;;
+Carpentaria,51151;;;;;;;
+Cassowary Coast,41828;;;;;;;
+Central Highlands,62853;;;;;;;
+Charters Towers,50733;;;;;;;
+Cherbourg,33437;;;;;;;
+Cloncurry,67946;;;;;;;
+Cook,46365;;;;;;;
+Croydon,41846;;;;;;;
+Diamantina,57675;;;;;;;
+Doomadgee,34069;;;;;;;
+Douglas,41055;;;;;;;
+Etheridge,42137;;;;;;;
+Flinders,53331;;;;;;;
+Fraser Coast,42213;;;;;;;
+Gladstone,57781;;;;;;;
+Gold Coast,47126;;;;;;;
+Goondiwindi,44470;;;;;;;
+Gympie,39795;;;;;;;
+Hinchinbrook,47663;;;;;;;
+Hope Vale,37510;;;;;;;
+Ipswich,53745;;;;;;;
+Isaac,78578;;;;;;;
+Kowanyama,33750;;;;;;;
+Livingstone,55073;;;;;;;
+Lockhart River,34233;;;;;;;
+Lockyer Valley,45600;;;;;;;
+Logan,50418;;;;;;;
+Longreach,55065;;;;;;;
+Mackay,60190;;;;;;;
+McKinlay,56015;;;;;;;
+Mapoon,42148;;;;;;;
+Maranoa,49041;;;;;;;
+Mareeba,41476;;;;;;;
+Moreton Bay,51476;;;;;;;
+Mornington,43149;;;;;;;
+Mount Isa,74859;;;;;;;
+Murweh,47927;;;;;;;
+Napranum,36010;;;;;;;
+Noosa,40819;;;;;;;
+North Burnett,35307;;;;;;;
+Northern Peninsula Area,44783;;;;;;;
+Palm Island,39086;;;;;;;
+Paroo,42764;;;;;;;
+Pormpuraaw,28471;;;;;;;
+Quilpie,50929;;;;;;;
+Redland,53448;;;;;;;
+Richmond,54147;;;;;;;
+Rockhampton,55399;;;;;;;
+Scenic Rim,44902;;;;;;;
+Somerset,47348;;;;;;;
+South Burnett,41341;;;;;;;
+Southern Downs,38921;;;;;;;
+Sunshine Coast,46376;;;;;;;
+Tablelands,41516;;;;;;;
+Toowoomba,50244;;;;;;;
+Torres,60039;;;;;;;
+Torres Strait Island,40036;;;;;;;
+Townsville,57665;;;;;;;
+Weipa,88989;;;;;;;
+Western Downs,45608;;;;;;;
+Whitsunday,46559;;;;;;;
+Winton,53261;;;;;;;
+Woorabinda,32946;;;;;;;
+Wujal Wujal,46257;;;;;;;
+Yarrabah,43250;;;;;;;
+Adelaide,48271;;;;;;;
+Adelaide Hills,55295;;;;;;;
+Adelaide Plains,50982;;;;;;;
+Alexandrina,40552;;;;;;;
+Anangu Pitjantjatjara,38461;;;;;;;
+Barossa,50018;;;;;;;
+Barunga West,42920;;;;;;;
+Berri and Barmera,46538;;;;;;;
+Burnside,58695;;;;;;;
+Campbelltown,49700;;;;;;;
+Ceduna,49220;;;;;;;
+Charles Sturt,52914;;;;;;;
+Clare and Gilbert Valleys,45098;;;;;;;
+Cleve,36874;;;;;;;
+Coober Pedy,44155;;;;;;;
+Copper Coast,41911;;;;;;;
+Elliston,40656;;;;;;;
+Flinders Ranges,44266;;;;;;;
+Franklin Harbour,42929;;;;;;;
+Gawler,51409;;;;;;;
+Goyder,35783;;;;;;;
+Grant,51280;;;;;;;
+Holdfast Bay,55780;;;;;;;
+Kangaroo Island,38020;;;;;;;
+Karoonda East Murray,28609;;;;;;;
+Kimba,31306;;;;;;;
+Kingston,45746;;;;;;;
+Light,52309;;;;;;;
+Lower Eyre Peninsula,50903;;;;;;;
+Loxton Waikerie,44020;;;;;;;
+Maralinga Tjarutja,84447;;;;;;;
+Marion,52270;;;;;;;
+Mid Murray,38379;;;;;;;
+Mitcham,56348;;;;;;;
+Mount Barker,51673;;;;;;;
+Mount Gambier,50201;;;;;;;
+Mount Remarkable,37708;;;;;;;
+Murray Bridge,43987;;;;;;;
+Naracoorte and Lucindale,47037;;;;;;;
+Northern Areas,43034;;;;;;;
+Norwood Payneham St Peters,54742;;;;;;;
+Onkaparinga,49979;;;;;;;
+Orroroo/Carrieton,30041;;;;;;;
+Peterborough,33908;;;;;;;
+Playford,48594;;;;;;;
+Port Adelaide Enfield,50014;;;;;;;
+Port Augusta,52558;;;;;;;
+Port Lincoln,47351;;;;;;;
+Port Pirie City and Dists,48080;;;;;;;
+Prospect,57175;;;;;;;
+Renmark Paringa,44101;;;;;;;
+Robe,41089;;;;;;;
+Roxby Downs,98955;;;;;;;
+Salisbury,48732;;;;;;;
+Southern Mallee,42363;;;;;;;
+Streaky Bay,43352;;;;;;;
+Tatiara,47001;;;;;;;
+Tea Tree Gully,52772;;;;;;;
+The Coorong,41497;;;;;;;
+Tumby Bay,41192;;;;;;;
+Unley,59740;;;;;;;
+Victor Harbor,36417;;;;;;;
+Wakefield,44546;;;;;;;
+Walkerville,62477;;;;;;;
+Wattle Range,47233;;;;;;;
+West Torrens,50342;;;;;;;
+Whyalla,57225;;;;;;;
+Wudinna,45383;;;;;;;
+Yankalilla,38213;;;;;;;
+Yorke Peninsula,39376;;;;;;;
+Albany,45584;;;;;;;
+Armadale,56278;;;;;;;
+Ashburton,99367;;;;;;;
+Augusta-Margaret River,40897;;;;;;;
+Bassendean,58512;;;;;;;
+Bayswater,54818;;;;;;;
+Belmont,54879;;;;;;;
+Beverley,45548;;;;;;;
+Boddington,69840;;;;;;;
+Boyup Brook,43385;;;;;;;
+Bridgetown-Greenbushes,43166;;;;;;;
+Brookton,45842;;;;;;;
+Broome,60194;;;;;;;
+Broomehill-Tambellup,45755;;;;;;;
+Bruce Rock,46377;;;;;;;
+Bunbury,49837;;;;;;;
+Busselton,45484;;;;;;;
+Cambridge,71303;;;;;;;
+Canning,47203;;;;;;;
+Capel,56627;;;;;;;
+Carnamah,47145;;;;;;;
+Carnarvon,48014;;;;;;;
+Chapman Valley,56223;;;;;;;
+Chittering,54915;;;;;;;
+Claremont,63416;;;;;;;
+Cockburn,58423;;;;;;;
+Collie,51443;;;;;;;
+Coolgardie,70809;;;;;;;
+Coorow,44036;;;;;;;
+Corrigin,50418;;;;;;;
+Cottesloe,76983;;;;;;;
+Cranbrook,43592;;;;;;;
+Cuballing,43251;;;;;;;
+Cue,37750;;;;;;;
+Cunderdin,55539;;;;;;;
+Dalwallinu,54650;;;;;;;
+Dandaragan,43380;;;;;;;
+Dardanup,54514;;;;;;;
+Denmark,34822;;;;;;;
+Derby-West Kimberley,52365;;;;;;;
+Donnybrook-Balingup,41906;;;;;;;
+Dowerin,47822;;;;;;;
+Dumbleyung,45220;;;;;;;
+Dundas,48504;;;;;;;
+East Fremantle,66721;;;;;;;
+East Pilbara,81605;;;;;;;
+Esperance,48532;;;;;;;
+Exmouth,49741;;;;;;;
+Fremantle,58603;;;;;;;
+Gingin,40881;;;;;;;
+Gnowangerup,56240;;;;;;;
+Goomalling,43895;;;;;;;
+Gosnells,51269;;;;;;;
+Greater Geraldton,53684;;;;;;;
+Halls Creek,45788;;;;;;;
+Harvey,54178;;;;;;;
+Irwin,47502;;;;;;;
+Jerramungup,38949;;;;;;;
+Joondalup,57074;;;;;;;
+Kalamunda,56001;;;;;;;
+Kalgoorlie/Boulder,72217;;;;;;;
+Karratha,84851;;;;;;;
+Katanning,47460;;;;;;;
+Kellerberrin,42818;;;;;;;
+Kent,57557;;;;;;;
+Kojonup,47828;;;;;;;
+Kondinin,46693;;;;;;;
+Koorda,35226;;;;;;;
+Kulin,47241;;;;;;;
+Kwinana,57280;;;;;;;
+Lake Grace,43486;;;;;;;
+Laverton,58577;;;;;;;
+Leonora,69112;;;;;;;
+Mandurah,49706;;;;;;;
+Manjimup,40438;;;;;;;
+Meekatharra,48463;;;;;;;
+Melville,56643;;;;;;;
+Menzies,42888;;;;;;;
+Merredin,50077;;;;;;;
+Mingenew,54007;;;;;;;
+Moora,51570;;;;;;;
+Morawa,53920;;;;;;;
+Mosman Park,63402;;;;;;;
+Mount Magnet,45776;;;;;;;
+Mount Marshall,41244;;;;;;;
+Mukinbudin,46977;;;;;;;
+Mundaring,55293;;;;;;;
+Murchison,64696;;;;;;;
+Murray,50965;;;;;;;
+Nannup,33567;;;;;;;
+Narembeen,46841;;;;;;;
+Narrogin,50086;;;;;;;
+Nedlands,71149;;;;;;;
+Northam,53600;;;;;;;
+Northampton,40519;;;;;;;
+Nungarin,31506;;;;;;;
+Peppermint Grove,96244;;;;;;;
+Perenjori,42245;;;;;;;
+Perth,54587;;;;;;;
+Pingelly,40807;;;;;;;
+Plantagenet,41434;;;;;;;
+Port Hedland,89365;;;;;;;
+Quairading,52016;;;;;;;
+Ravensthorpe,41225;;;;;;;
+Rockingham,57170;;;;;;;
+Sandstone,50745;;;;;;;
+Serpentine-Jarrahdale,59390;;;;;;;
+Shark Bay,44217;;;;;;;
+South Perth,60022;;;;;;;
+Stirling,55839;;;;;;;
+Subiaco,68296;;;;;;;
+Swan,55884;;;;;;;
+Tammin,44856;;;;;;;
+Three Springs,45239;;;;;;;
+Toodyay,50272;;;;;;;
+Trayning,37056;;;;;;;
+Upper Gascoyne,61447;;;;;;;
+Victoria Park,56240;;;;;;;
+Victoria Plains,51414;;;;;;;
+Vincent,63973;;;;;;;
+Wagin,45998;;;;;;;
+Wandering,54478;;;;;;;
+Wanneroo,54448;;;;;;;
+Waroona,51529;;;;;;;
+West Arthur,41280;;;;;;;
+Westonia,54243;;;;;;;
+Wickepin,46658;;;;;;;
+Williams,52966;;;;;;;
+Wiluna,39332;;;;;;;
+Wongan-Ballidu,49882;;;;;;;
+Woodanilling,47912;;;;;;;
+Wyalkatchem,44425;;;;;;;
+Wyndham-East Kimberley,59833;;;;;;;
+Yalgoo,41358;;;;;;;
+Yilgarn,60645;;;;;;;
+York,44483;;;;;;;
+Break O'Day,32571;;;;;;;
+Brighton,50986;;;;;;;
+Burnie,49655;;;;;;;
+Central Coast,47673;;;;;;;
+Central Highlands,42329;;;;;;;
+Circular Head,46619;;;;;;;
+Clarence,51867;;;;;;;
+Derwent Valley,48959;;;;;;;
+Devonport,45738;;;;;;;
+Dorset,40302;;;;;;;
+Flinders,43899;;;;;;;
+George Town,45006;;;;;;;
+Glamorgan/Spring Bay,37430;;;;;;;
+Glenorchy,46619;;;;;;;
+Hobart,48663;;;;;;;
+Huon Valley,43200;;;;;;;
+Kentish,41647;;;;;;;
+King Island,48154;;;;;;;
+Kingborough,50254;;;;;;;
+Latrobe,48301;;;;;;;
+Launceston,47821;;;;;;;
+Meander Valley,47322;;;;;;;
+Northern Midlands,48158;;;;;;;
+Sorell,49338;;;;;;;
+Southern Midlands,47243;;;;;;;
+Tasman,34333;;;;;;;
+Waratah/Wynyard,49071;;;;;;;
+West Coast,50770;;;;;;;
+West Tamar,48492;;;;;;;
+Alice Springs,61606;;;;;;;
+Barkly,57004;;;;;;;
+Belyuen,8142;;;;;;;
+Central Desert,40721;;;;;;;
+Coomalie,43883;;;;;;;
+Darwin,61808;;;;;;;
+East Arnhem,29231;;;;;;;
+Katherine,64209;;;;;;;
+Litchfield,65253;;;;;;;
+MacDonnell,34652;;;;;;;
+Palmerston,67256;;;;;;;
+Roper Gulf,33955;;;;;;;
+Tiwi Islands,37551;;;;;;;
+Victoria Daly,37124;;;;;;;
+Wagait,62927;;;;;;;
+West Arnhem,46840;;;;;;;
+West Daly,35450;;;;;;;
