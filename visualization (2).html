@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.25.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.14.1"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.22.2"></script>
+</head>
+<body>
+  <div id="vis"/>
+  <script>
+    const spec = {
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Median Income in Australia by LGA (Hover mouse over area to see LGA and income)",
+  "width": 800,
+  "height": 400,
+  "projection": {"type": "mercator"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/Vive0017/AustraliaLGA/main/LGA_2023_AUST_GDA2020.json",
+    "format": {"type": "topojson", "feature": "LGA_2023_AUST_GDA2020"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.LGA_NAME23",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/Vive0017/AustraliaIncome/main/LGAIncome1.csv"
+        },
+        "key": "LGA_NAME23",
+        "fields": ["Income"]
+      }
+    },
+    {"calculate": "(datum.Income+0)/10", "as": "Income"}
+  ],
+  "mark": {"type": "geoshape"},
+  "encoding": {
+    "color": {
+      "field": "Income",
+      "type": "quantitative",
+      "scale": {"type": "linear"}
+    },
+    "tooltip": [
+      {"field": "properties.LGA_NAME23", "type": "nominal", "title": "LGA"},
+      {"field": "Income", "type": "quantitative"}
+    ]
+  },
+  "config": {}
+};
+    vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+  </script>
+</body>
+</html>
