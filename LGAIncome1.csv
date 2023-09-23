@@ -20,7 +20,7 @@ Burwood,40937
 Byron,36665
 Cabonne,46144
 Camden,61468
-Campbelltown,53462
+Campbelltown (NSW),53462
 Canada Bay,61661
 Canterbury-Bankstown,45875
 Carrathool,41201
@@ -103,7 +103,7 @@ Singleton,56839
 Snowy Monaro,47050
 Snowy Valleys,49019
 Strathfield,48294
-Sutherland Shire,61414
+Sutherland,61414
 Sydney,59401
 Tamworth,49606
 Temora,39285
@@ -293,7 +293,7 @@ Barossa,50018
 Barunga West,42920
 Berri and Barmera,46538
 Burnside,58695
-Campbelltown,49700
+Campbelltown (SA),49700
 Ceduna,49220
 Charles Sturt,52914
 Clare and Gilbert Valleys,45098
@@ -324,7 +324,7 @@ Mount Remarkable,37708
 Murray Bridge,43987
 Naracoorte Lucindale,47037
 Northern Areas,43034
-Norwood Payneham St Peters,54742
+Norwood Payneham and St Peters,54742
 Onkaparinga,49979
 Orroroo/Carrieton,30041
 Peterborough,33908
@@ -332,7 +332,7 @@ Playford,48594
 Port Adelaide Enfield,50014
 Port Augusta,52558
 Port Lincoln,47351
-Port Pirie City and Dists,48080
+Port Pirie,48080
 Prospect,57175
 Renmark Paringa,44101
 Robe,41089
@@ -502,7 +502,7 @@ Devonport,45738
 Dorset,40302
 Flinders (Tas.),43899
 George Town,45006
-Glamorgan/Spring Bay,37430
+Glamorgan-Spring Bay,37430
 Glenorchy,46619
 Hobart,48663
 Huon Valley,43200
