@@ -24,7 +24,7 @@ Campbelltown,53462
 Canada Bay,61661
 Canterbury-Bankstown,45875
 Carrathool,41201
-Central Coast,50037
+Central Coast (NSW),50037
 Central Darling,46581
 Cessnock,51320
 Clarence Valley,40710
@@ -142,7 +142,7 @@ Campaspe,45203
 Cardinia,52595
 Casey,51167
 Central Goldfields,40585
-Colac-Otway,44863
+Colac Otway,44863
 Corangamite,45675
 Darebin,55636
 East Gippsland,41133
@@ -163,7 +163,7 @@ Hume,49410
 Indigo,48510
 Kingston,55562
 Knox,52301
-Latrobe,50361
+Latrobe (Vic.),50361
 Loddon,41106
 Macedon Ranges,54922
 Manningham,48090
@@ -231,7 +231,7 @@ Diamantina,57675
 Doomadgee,34069
 Douglas,41055
 Etheridge,42137
-Flinders (Qld)f,53331
+Flinders (Qld),53331
 Fraser Coast,42213
 Gladstone,57781
 Gold Coast,47126
@@ -357,7 +357,7 @@ Yorke Peninsula,39376
 Albany,45584
 Armadale,56278
 Ashburton,99367
-Augusta-Margaret River,40897
+Augusta Margaret River,40897
 Bassendean,58512
 Bayswater,54818
 Belmont,54879
@@ -493,14 +493,14 @@ York,44483
 Break O'Day,32571
 Brighton,50986
 Burnie,49655
-Central Coast,47673
+Central Coast(Tas.),47673
 Central Highlands (Tas.),42329
 Circular Head,46619
 Clarence,51867
 Derwent Valley,48959
 Devonport,45738
 Dorset,40302
-Flinders,43899
+Flinders (Tas.),43899
 George Town,45006
 Glamorgan/Spring Bay,37430
 Glenorchy,46619
