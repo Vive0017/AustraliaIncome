@@ -1,9 +1,9 @@
 ﻿LGA_NAME23,Income
 Albury,50379
-Armidale Regional,43888
+Armidale,43888
 Ballina,44182
 Balranald,47049
-Bathurst Regional,53066
+Bathurst,53066
 Bayside,51718
 Bega Valley,40001
 Bellingen,38005
@@ -32,10 +32,10 @@ Cobar,56479
 Coffs Harbour,43423
 Coolamon,44179
 Coonamble,39674
-Cootamundra-Gundagai Regional,44692
+Cootamundra-Gundagai,44692
 Cowra,41993
 Cumberland,43796
-Dubbo Regional,51952
+Dubbo,51952
 Dungog,46194
 Edward River,44168
 Eurobodalla,38704
@@ -73,13 +73,13 @@ Liverpool Plains,40419
 Lockhart,44650
 Maitland,55483
 Mid-Coast,38800
-Mid-Western Regional,47388
+Mid-Western,47388
 Moree Plains,47595
 Mosman,78073
 Murray River,42523
 Murrumbidgee,45140
 Muswellbrook,56356
-Nambucca,36849
+Nambucca Valley,36849
 Narrabri,46590
 Narrandera,44800
 Narromine,42088
@@ -93,7 +93,7 @@ Parramatta,53662
 Penrith,57740
 Port Macquarie-Hastings,42675
 Port Stephens,46676
-Queanbeyan-Palerang Regional,67840
+Queanbeyan-Palerang,67840
 Randwick,63696
 Richmond Valley,43985
 Ryde,56105
@@ -105,19 +105,19 @@ Snowy Valleys,49019
 Strathfield,48294
 Sutherland Shire,61414
 Sydney,59401
-Tamworth Regional,49606
+Tamworth,49606
 Temora,39285
 Tenterfield,29372
 The Hills Shire,60756
 Tweed,42883
-Upper Hunter Shire,49007
-Upper Lachlan Shire,46010
+Upper Hunter,49007
+Upper Lachlan,46010
 Uralla,41246
 Wagga Wagga,54054
 Walcha,33903
 Walgett,36855
 Warren,40017
-Warrumbungle Shire,35480
+Warrumbungle,35480
 Waverley,67914
 Weddin,32817
 Wentworth,43490
@@ -211,7 +211,7 @@ Balonne,42302
 Banana,51642
 Barcaldine,49995
 Barcoo,54970
-Blackall-Tambo,46365
+Blackall Tambo,46365
 Boulia,56748
 Brisbane,56564
 Bulloo,59362
@@ -231,7 +231,7 @@ Diamantina,57675
 Doomadgee,34069
 Douglas,41055
 Etheridge,42137
-Flinders,53331
+Flinders (Qld)f,53331
 Fraser Coast,42213
 Gladstone,57781
 Gold Coast,47126
@@ -310,7 +310,7 @@ Holdfast Bay,55780
 Kangaroo Island,38020
 Karoonda East Murray,28609
 Kimba,31306
-Kingston,45746
+Kingston (SA),45746
 Light,52309
 Lower Eyre Peninsula,50903
 Loxton Waikerie,44020
@@ -322,7 +322,7 @@ Mount Barker,51673
 Mount Gambier,50201
 Mount Remarkable,37708
 Murray Bridge,43987
-Naracoorte and Lucindale,47037
+Naracoorte Lucindale,47037
 Northern Areas,43034
 Norwood Payneham St Peters,54742
 Onkaparinga,49979
@@ -342,7 +342,7 @@ Southern Mallee,42363
 Streaky Bay,43352
 Tatiara,47001
 Tea Tree Gully,52772
-The Coorong,41497
+Coorong,41497
 Tumby Bay,41192
 Unley,59740
 Victor Harbor,36417
@@ -516,7 +516,7 @@ Northern Midlands,48158
 Sorell,49338
 Southern Midlands,47243
 Tasman,34333
-Waratah/Wynyard,49071
+Waratah-Wynyard,49071
 West Coast,50770
 West Tamar,48492
 Alice Springs,61606
