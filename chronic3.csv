@@ -1,4 +1,4 @@
-﻿ID,Disease,Percentage
-1,Arthritis(d),13.4
-2,Asthma,9.8
-3,Back problems (dorsopathies)(e),28.9
+﻿ID,Disease,Percentage,Category
+1,Arthritis(d),13.4,Males
+2,Asthma,9.8,Total
+3,Back problems (dorsopathies)(e),28.9,Females
