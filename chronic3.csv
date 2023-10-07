@@ -1,4 +1,4 @@
-﻿Disease, Percentage, Sex
-Arthritis(d), 13.4, male
-Asthma, 9.5, male
-Back problems (dorsopathies)(e), 19.7, male
+﻿ID,Disease,Percentage
+1,Arthritis(d),13.4
+2,Asthma,9.5
+3,Back problems (dorsopathies)(e),19.7
